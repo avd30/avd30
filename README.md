@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey !! I'm <strong>Aviral Dixit</strong>.<br>I live in Delhi-NCR , India .<br>I am currently pursuing B-Tech undergraduate degree from AKGEC College Ghaziabad <br>I am currently a Frontend Web Developer trying to become Fullstack<br>I know C++,beginner in python<br>My hobbies include listening to music , watching basketball-STEPHEN CURRY is my GOD
+<h1>hey !! I'm <strong>Aviral Dixit</strong></h1><br>I live in Delhi-NCR , India .<br>I am currently pursuing B-Tech undergraduate degree from AKGEC College Ghaziabad <br>I am currently a Frontend Web Developer trying to become Fullstack<br>I know C++,beginner in python<br>My hobbies include listening to music , watching basketball-STEPHEN CURRY is my GOD
 
 
 ## 🌐 Socials:
